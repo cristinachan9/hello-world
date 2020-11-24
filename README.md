@@ -1,2 +1,7 @@
 # hello-world
-Repositório para armazenas ideias, recursos, etc.
+
+Salut!
+
+Je m'appelle Cristina et je travaille en tant qu'Analyste de tests et Analyste d'Assurance Qualité.
+
+
